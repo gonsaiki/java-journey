@@ -9,6 +9,10 @@ public class SpeedConverter {
     }
 
     public static void printConversion(double kilometersPerHour){
-        System.out.println(kilometersPerHour + " km/h is equal to " +toMilesPerHour(kilometersPerHour)+ " m/h");
+        if (kilometersPerHour < 0){
+            System.out.println("Invalid Value");
+        }else {
+            System.out.println(kilometersPerHour + " km/h = " +toMilesPerHour(kilometersPerHour)+ " mi/h");   
+        }
     }
 }
