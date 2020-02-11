@@ -17,6 +17,6 @@
 7. Otherwise return false.
 
 ## Note
-*Do not add a  main method to solution code.*
+*Do not add a  main method to solution code*
 
 ***Challange by :*** [Tim Buchalka on Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
