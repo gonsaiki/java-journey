@@ -15,6 +15,6 @@
 5. If the parameter kilometersPerHour is < 0 then print the text "Invalid Value".
 
 
-*Use method Math.round to round the number of calculated miles per hour(double). The method round returns long.*
+> *Use method Math.round to round the number of calculated miles per hour(double). The method round returns long.*
 
 ***Challange by :*** [Tim Buchalka on Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
