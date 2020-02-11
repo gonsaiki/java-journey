@@ -24,7 +24,7 @@
 
 
 ## Note
-- **Use double data types**
-- **1 inch = 2.54 cm, 1 feet = 12 inches** 
+- *Use double data types*
+- *1 inch = 2.54 cm, 1 feet = 12 inches* 
 
 ***Challange by :*** [Tim Buchalka on Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
