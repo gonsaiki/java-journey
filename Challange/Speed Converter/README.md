@@ -17,10 +17,4 @@
 
 *Use method Math.round to round the number of calculated miles per hour(double). The method round returns long.*
 
-***Challange by : Tim Buchalka on Udemy***
-
-*direct link : https://www.udemy.com/course/java-the-complete-java-developer-course/*
-
-
-## AUTHOR
-**Aditya Fajri**
+***Challange by :*** [Tim Buchalka on Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
