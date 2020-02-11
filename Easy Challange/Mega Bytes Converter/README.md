@@ -10,7 +10,7 @@
 
 4. For example, when the parameter kiloBytes is 2500 it needs to print "2500 KB = 2 MB and 452 KB"
 
-5. If the parameter kiloBytes is less than 0 then print the text "Invalid Value".
+5. If the parameter kiloBytes is less than 0 then print the text "Invalid Value"
 
 
 ## Note
