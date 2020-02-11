@@ -10,7 +10,7 @@
 
 4. If all numbers are different print text "All numbers are different"
 
-5. Otherwise, print "Neither all are equal or different".
+5. Otherwise, print "Neither all are equal or different"
 
 
 ## Note
