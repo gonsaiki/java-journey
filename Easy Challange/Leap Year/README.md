@@ -17,8 +17,8 @@
    - If the year is evenly divisible by 4, go to step
    - Otherwise, go to step 5.2. If the year is evenly divisible by 100, go to step
    - Otherwise, go to step 4.3. If the year is evenly divisible by 400, go to step
-   - Otherwise, go to step 5.4. The year is a leap year (it has 366 days). The method isLeapYear needs to return true.
-   - The year is not a leap year (it has 365 days). The method isLeapYear needs to return false.
+   - Otherwise, go to step 5.4. The year is a leap year (it has 366 days). The method isLeapYear needs to return true
+   - The year is not a leap year (it has 365 days). The method isLeapYear needs to return false
 
 ## Note
 - *Do not add a  main method to solution code*
