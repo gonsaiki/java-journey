@@ -1,19 +1,18 @@
 # Welcome to my Java Journey repository
 
-***Repository ini dibuat untuk mendokumentasikan challange & project yang telah saya selesaikan di Github Social Coding***
+***This repository is made to document the challanges and project that i have completed.***
 
-## Menu Repository
+## Directories
 
-1. **Challange**
-   * Merupakan direktori yang berisi challange program java yang telah saya selesaikan
-   * Sumber challange akan disertakan
-   * Deskripsi challange juga akan disertakan 
-2. **Project (Coming soon)**
-   * Berisi tentang project yang dibuat dalam bahasa java.
-   * Project pada direktori ini bisa dalam platform windows, android, maupun berbasis command line (yang dijalankan langsung di IDE)
+1. **Challenges**
+   * Contains challenges that i have solved with java language
+   * Challenges resources will be included
+   * Challenges description will also be included 
+2. **Projects (Coming soon)**
+   * Project that i'm currently working or i have done
 
 ~~~
-Siapapun anda berhak menggunakan resource yang ada dalam repository ini, karena repository ini sendiri bersifat publik
+anyone has the right to use resource of this repository, if you dont mind, pls credit me and i will really appreciate that.
 ~~~
 
 ## AUTHOR
