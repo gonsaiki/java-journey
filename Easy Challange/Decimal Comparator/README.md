@@ -8,10 +8,6 @@
 
 3. Otherwise, return false.
 
-4. If all numbers are different print text "All numbers are different"
-
-5. Otherwise, print "Neither all are equal or different"
-
 
 ## Note
 - *Do not add a  main method to solution code*
