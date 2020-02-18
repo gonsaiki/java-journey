@@ -1,11 +1,5 @@
 public class NumberOfDaysInMonth {
-
-    public static void main(String[] args) {
-        int myValue = getDaysInMonth(2, 2024);
-        System.out.println(myValue);
-
-    }
-
+    
     public static boolean isLeapYear(int year) {
         if (year < 1 || year > 9999) {
             return false;
