@@ -1,7 +1,6 @@
 # Challange :  Number Palindrome
 
 ## Description
-**We have a dog that likes to bark.  We need to wake up if the dog is barking at night!**
 
 1. Write a method called isPalindrome with one int parameter called number.
 
