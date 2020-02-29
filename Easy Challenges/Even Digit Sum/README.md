@@ -1,4 +1,4 @@
-# Challange :  Decimal Comparator
+# Challange :  Even Digit Sum
 
 ## Description
 
